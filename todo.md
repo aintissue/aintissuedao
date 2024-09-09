@@ -21,3 +21,5 @@
 - [x] demo
 - [x] web - logo
 - [x] web - favicon
+- [x] telegram photo
+
