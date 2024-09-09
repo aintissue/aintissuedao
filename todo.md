@@ -4,6 +4,7 @@
 
 #### TODO - v1.0 (MVP)
 
+- [ ] web - footer content
 - [ ] web - build basic
 - [ ] crowdfunding
 - [ ] demo - finish bot
@@ -25,3 +26,4 @@
 - [x] telegram photo
 - [x] register twitter
 - [x] verify on google
+- [x] web - footer color
