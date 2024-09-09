@@ -8,10 +8,12 @@
 - [ ] web - build basic
 - [ ] crowdfunding
 - [ ] demo - finish bot
+- [ ] demo - production
 
 #### TODO - BACKLOG
 
 - [ ] crowdsource user support
+- [ ] register facebook
 
 #### DONE
 
@@ -22,4 +24,4 @@
 - [x] web - logo
 - [x] web - favicon
 - [x] telegram photo
-
+- [x] register twitter
