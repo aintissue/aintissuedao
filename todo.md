@@ -4,12 +4,15 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - footer content
 - [ ] web - tutorials under construction
 - [ ] crowdfunding
 - [ ] demo - finish bot
 - [ ] demo - production
 - [ ] sitemap.xml
+
+#### TODO - v1.1
+
+- [ ] bot - golang version
 
 #### TODO - BACKLOG
 
@@ -29,3 +32,4 @@
 - [x] verify on google
 - [x] web - footer color
 - [x] logo icon white
+- [x] web - footer content
