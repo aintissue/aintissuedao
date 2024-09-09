@@ -4,7 +4,6 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] verify on google
 - [ ] web - build basic
 - [ ] crowdfunding
 - [ ] demo - finish bot
@@ -25,3 +24,4 @@
 - [x] web - favicon
 - [x] telegram photo
 - [x] register twitter
+- [x] verify on google
