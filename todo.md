@@ -5,8 +5,6 @@
 #### TODO - v1.0 (MVP)
 
 - [ ] website - build basic
-- [ ] website - setup github
-- [ ] website - setup cloudflare
 - [ ] crowdfunding
 - [ ] demo
 
@@ -16,4 +14,6 @@
 
 #### DONE
 
-- [x] done
+- [x] find template
+- [x] website - setup github
+- [x] website - setup cloudflare
