@@ -34,3 +34,4 @@
 - [x] logo icon white
 - [x] web - footer content
 - [x] web - contact
+- [x] web - add counter
