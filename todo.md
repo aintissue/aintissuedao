@@ -5,10 +5,11 @@
 #### TODO - v1.0 (MVP)
 
 - [ ] web - footer content
-- [ ] web - build basic
+- [ ] web - tutorials under construction
 - [ ] crowdfunding
 - [ ] demo - finish bot
 - [ ] demo - production
+- [ ] sitemap.xml
 
 #### TODO - BACKLOG
 
