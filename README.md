@@ -1,2 +1,1 @@
-# org
-Decentralized Autonomous Organization For Aint Issue
+# Decentralized Autonomous Organization For Aint Issue
