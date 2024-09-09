@@ -28,3 +28,4 @@
 - [x] register twitter
 - [x] verify on google
 - [x] web - footer color
+- [x] logo icon white
