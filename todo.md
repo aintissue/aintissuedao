@@ -16,6 +16,7 @@
 - [ ] demo - finish bot
 - [ ] demo - production
 - [ ] sitemap.xml
+- [ ] web - meta info
 
 #### TODO - v1.1
 
