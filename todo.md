@@ -4,16 +4,20 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] website - build basic
+- [ ] verify on google
+- [ ] web - build basic
 - [ ] crowdfunding
-- [ ] demo
+- [ ] demo - finish bot
 
 #### TODO - BACKLOG
 
-- [ ] backlog
+- [ ] crowdsource user support
 
 #### DONE
 
 - [x] find template
 - [x] website - setup github
 - [x] website - setup cloudflare
+- [x] demo
+- [x] web - logo
+- [x] web - favicon
