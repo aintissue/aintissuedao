@@ -6,7 +6,6 @@
 
 - [ ] web - logos
 - [ ] web - about
-- [ ] web - stats
 - [ ] web - action
 - [ ] web - tutorials under construction
 - [ ] web - co-founders
@@ -43,3 +42,4 @@
 - [x] web - pricing
 - [x] web - faq
 - [x] web - header
+- [x] web - stats
