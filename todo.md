@@ -8,7 +8,6 @@
 - [ ] web - logos
 - [ ] web - about
 - [ ] web - stats
-- [ ] web - pricing
 - [ ] web - faq
 - [ ] web - action
 - [ ] web - tutorials under construction
@@ -43,3 +42,4 @@
 - [x] web - add counter
 - [x] demo - finish bot
 - [x] demo - production
+- [x] web - pricing
