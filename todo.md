@@ -8,7 +8,7 @@
 - [ ] web - about
 - [ ] web - action
 - [ ] web - tutorials under construction
-- [ ] web - co-founders
+- [ ] web - finish co-founders
 - [ ] sitemap.xml
 - [ ] web - meta info
 
@@ -43,3 +43,4 @@
 - [x] web - faq
 - [x] web - header
 - [x] web - stats
+- [x] web - co-founders page
