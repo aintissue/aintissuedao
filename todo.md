@@ -19,6 +19,7 @@
 
 - [ ] crowdsource user support
 - [ ] register facebook
+- [ ] more languages
 
 #### DONE
 
