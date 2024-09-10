@@ -9,6 +9,8 @@
 - [ ] web - tutorials under construction
 - [ ] web - finish co-founders
 - [ ] web - meta info
+- [ ] bot - add details
+- [ ] create back link
 
 #### TODO - v1.1
 
