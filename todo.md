@@ -12,7 +12,7 @@
 - [ ] web - faq
 - [ ] web - action
 - [ ] web - tutorials under construction
-- [ ] crowdfunding
+- [ ] web - co-founders
 - [ ] demo - finish bot
 - [ ] demo - production
 - [ ] sitemap.xml
