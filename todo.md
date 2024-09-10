@@ -6,7 +6,6 @@
 
 - [ ] web - logos
 - [ ] web - about
-- [ ] web - action
 - [ ] web - tutorials under construction
 - [ ] web - finish co-founders
 - [ ] web - meta info
@@ -44,3 +43,4 @@
 - [x] web - stats
 - [x] web - co-founders page
 - [x] sitemap.xml
+- [x] web - action
