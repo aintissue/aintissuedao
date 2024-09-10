@@ -9,7 +9,6 @@
 - [ ] web - action
 - [ ] web - tutorials under construction
 - [ ] web - finish co-founders
-- [ ] sitemap.xml
 - [ ] web - meta info
 
 #### TODO - v1.1
@@ -44,3 +43,4 @@
 - [x] web - header
 - [x] web - stats
 - [x] web - co-founders page
+- [x] sitemap.xml
