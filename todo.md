@@ -4,11 +4,9 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - header
 - [ ] web - logos
 - [ ] web - about
 - [ ] web - stats
-- [ ] web - faq
 - [ ] web - action
 - [ ] web - tutorials under construction
 - [ ] web - co-founders
@@ -43,3 +41,5 @@
 - [x] demo - finish bot
 - [x] demo - production
 - [x] web - pricing
+- [x] web - faq
+- [x] web - header
