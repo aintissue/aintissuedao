@@ -13,8 +13,6 @@
 - [ ] web - action
 - [ ] web - tutorials under construction
 - [ ] web - co-founders
-- [ ] demo - finish bot
-- [ ] demo - production
 - [ ] sitemap.xml
 - [ ] web - meta info
 
@@ -43,3 +41,5 @@
 - [x] web - footer content
 - [x] web - contact
 - [x] web - add counter
+- [x] demo - finish bot
+- [x] demo - production
