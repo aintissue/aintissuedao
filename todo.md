@@ -4,7 +4,6 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - logos
 - [ ] web - about
 - [ ] web - tutorials under construction
 - [ ] web - finish co-founders
@@ -46,3 +45,4 @@
 - [x] web - co-founders page
 - [x] sitemap.xml
 - [x] web - action
+- [x] web - logos
