@@ -4,12 +4,10 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - finish co-founders
-- [ ] stripe - subscriptions
-- [ ] web - add subscriptions
-
 #### TODO - v1.1
 
+- [ ] web - finish co-founders
+- [ ] bot - create a dev bot
 - [ ] bot - golang version
 - [ ] web - tutorials
 - [ ] bot - free version
@@ -51,3 +49,5 @@
 - [x] web - meta info
 - [x] bot - add details
 - [x] web - dev page
+- [x] stripe - subscriptions
+- [x] web - add subscriptions
