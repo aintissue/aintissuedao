@@ -4,7 +4,6 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] bot - add details
 - [ ] web - finish co-founders
 - [ ] stripe - subscriptions
 - [ ] web - add subscriptions
@@ -50,3 +49,4 @@
 - [x] web - about
 - [x] create back link
 - [x] web - meta info
+- [x] bot - add details
