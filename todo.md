@@ -4,13 +4,16 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - tutorials under construction
 - [ ] web - finish co-founders
 - [ ] bot - add details
+- [ ] stripe - subscriptions
+- [ ] web - add subscriptions
 
 #### TODO - v1.1
 
 - [ ] bot - golang version
+- [ ] web - tutorials
+- [ ] bot - free version
 
 #### TODO - BACKLOG
 
