@@ -6,7 +6,6 @@
 
 - [ ] web - tutorials under construction
 - [ ] web - finish co-founders
-- [ ] web - meta info
 - [ ] bot - add details
 
 #### TODO - v1.1
@@ -47,3 +46,4 @@
 - [x] web - logos
 - [x] web - about
 - [x] create back link
+- [x] web - meta info
