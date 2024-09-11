@@ -4,8 +4,8 @@
 
 #### TODO - v1.0 (MVP)
 
-- [ ] web - finish co-founders
 - [ ] bot - add details
+- [ ] web - finish co-founders
 - [ ] stripe - subscriptions
 - [ ] web - add subscriptions
 
