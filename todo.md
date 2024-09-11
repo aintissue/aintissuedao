@@ -2,8 +2,6 @@
 
 ## Aint Issue
 
-#### TODO - v1.0 (MVP)
-
 #### TODO - v1.1
 
 - [ ] web - finish co-founders
