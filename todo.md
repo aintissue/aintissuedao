@@ -4,8 +4,8 @@
 
 #### TODO - v1.1
 
-- [ ] web - finish co-founders
 - [ ] bot - golang version
+- [ ] web - finish co-founders
 - [ ] web - tutorials
 - [ ] bot - free version
 
@@ -52,3 +52,4 @@
 #### DONE - v1.1
 
 - [x] bot - create a dev bot
+- [x] bot - docker / docker compose
