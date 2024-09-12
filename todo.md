@@ -5,7 +5,6 @@
 #### TODO - v1.1
 
 - [ ] web - finish co-founders
-- [ ] bot - create a dev bot
 - [ ] bot - golang version
 - [ ] web - tutorials
 - [ ] bot - free version
@@ -49,3 +48,7 @@
 - [x] web - dev page
 - [x] stripe - subscriptions
 - [x] web - add subscriptions
+
+#### DONE - v1.1
+
+- [x] bot - create a dev bot
