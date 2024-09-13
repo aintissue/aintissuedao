@@ -55,3 +55,4 @@
 
 - [x] bot - create a dev bot
 - [x] bot - docker / docker compose
+- [x] bot - basic version
