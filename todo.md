@@ -4,10 +4,12 @@
 
 #### TODO - v1.1
 
-- [ ] bot - golang version
+- [ ] bot - optimize memory
+- [ ] bot - free version
+- [ ] bot - tickets
+- [ ] bot - customer dashboard
 - [ ] web - finish co-founders
 - [ ] web - tutorials
-- [ ] bot - free version
 
 #### TODO - BACKLOG
 
