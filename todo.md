@@ -4,7 +4,7 @@
 
 #### TODO - v1.1
 
-- [ ] bot - optimize memory
+- [ ] bot - login
 - [ ] bot - free version
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
@@ -56,3 +56,4 @@
 - [x] bot - create a dev bot
 - [x] bot - docker / docker compose
 - [x] bot - basic version
+- [x] bot - optimize memory
