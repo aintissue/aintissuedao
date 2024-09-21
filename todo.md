@@ -4,6 +4,7 @@
 
 #### TODO - v1.1
 
+- [ ] bot - link command
 - [ ] bot - fix all basic flows
 - [ ] bot - login
 - [ ] bot - tickets
