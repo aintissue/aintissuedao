@@ -8,7 +8,7 @@
 - [ ] bot - free version
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
-- [ ] web - finish co-founders
+- [ ] web - finish cofounders
 - [ ] web - tutorials
 
 #### TODO - BACKLOG
