@@ -5,7 +5,6 @@
 #### TODO - v1.1
 
 - [ ] bot - login
-- [ ] bot - free version
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
@@ -57,3 +56,4 @@
 - [x] bot - docker / docker compose
 - [x] bot - basic version
 - [x] bot - optimize memory
+- [x] bot - free version
