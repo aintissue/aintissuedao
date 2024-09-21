@@ -5,12 +5,12 @@
 #### TODO - v1.1
 
 - [ ] bot - fix all basic flows
-- [ ] bot - all basic messages
 - [ ] bot - login
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
 - [ ] web - tutorials
+- [ ] web - stats from bot
 - [ ] referral system
 
 #### TODO - BACKLOG
@@ -60,3 +60,4 @@
 - [x] bot - basic version
 - [x] bot - optimize memory
 - [x] bot - free version
+- [x] bot - all basic messages
