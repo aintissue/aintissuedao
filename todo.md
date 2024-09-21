@@ -10,12 +10,12 @@
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
-- [ ] web - tutorials
 - [ ] web - stats from bot
 - [ ] referral system
 
 #### TODO - BACKLOG
 
+- [ ] web - more tutorials
 - [ ] crowdsource user support
 - [ ] register facebook
 - [ ] more languages
