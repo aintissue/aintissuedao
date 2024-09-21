@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] web - basic tutorial
 - [ ] bot - link command
 - [ ] bot - fix all basic flows
 - [ ] bot - login
@@ -63,3 +62,4 @@
 - [x] bot - optimize memory
 - [x] bot - free version
 - [x] bot - all basic messages
+- [x] web - basic tutorial
