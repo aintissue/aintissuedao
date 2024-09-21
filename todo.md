@@ -4,6 +4,8 @@
 
 #### TODO - v1.1
 
+- [ ] bot - fix all basic flows
+- [ ] bot - all basic messages
 - [ ] bot - login
 - [ ] bot - tickets
 - [ ] bot - customer dashboard
