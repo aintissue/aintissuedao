@@ -11,6 +11,7 @@
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
 - [ ] web - tutorials
+- [ ] referral system
 
 #### TODO - BACKLOG
 
