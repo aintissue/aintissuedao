@@ -7,7 +7,6 @@
 - [ ] bot - link command
 - [ ] bot - fix all basic flows
 - [ ] bot - login
-- [ ] bot - tickets
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
 - [ ] web - stats from bot
@@ -15,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] bot - tickets
 - [ ] web - more tutorials
 - [ ] crowdsource user support
 - [ ] register facebook
