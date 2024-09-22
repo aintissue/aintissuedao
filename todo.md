@@ -4,6 +4,7 @@
 
 #### TODO - v1.1
 
+- [ ] web - update FAQ
 - [ ] bot - link command
 - [ ] bot - deploy
 
