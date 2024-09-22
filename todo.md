@@ -18,6 +18,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] web - dropdown active
 - [ ] bot - FAQ
 - [ ] bot - tickets
 - [ ] web - more tutorials
