@@ -4,7 +4,12 @@
 
 #### TODO - v1.1
 
+- [ ] web - tutorials dropdown
 - [ ] bot - link command
+- [ ] bot - deploy
+
+#### TODO - v1.2
+
 - [ ] bot - fix all basic flows
 - [ ] bot - login
 - [ ] bot - customer dashboard
@@ -14,6 +19,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] bot - FAQ
 - [ ] bot - tickets
 - [ ] web - more tutorials
 - [ ] crowdsource user support
