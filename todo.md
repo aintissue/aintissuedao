@@ -74,4 +74,5 @@
 - [x] bot - all basic messages
 - [x] web - basic tutorial
 - [x] web - tutorials dropdown
-- [ ] web - bot father tutorial
+- [x] web - bot father tutorial
+- [x] bot - switching project
