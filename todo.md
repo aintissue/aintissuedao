@@ -5,6 +5,7 @@
 #### TODO - v1.1
 
 - [ ] bot - fix all basic flows
+- [ ] bot - non dev / postgres
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
 - [ ] web - update FAQ
