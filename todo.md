@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] web - tutorials dropdown
 - [ ] bot - link command
 - [ ] bot - deploy
 
@@ -69,3 +68,4 @@
 - [x] bot - free version
 - [x] bot - all basic messages
 - [x] web - basic tutorial
+- [x] web - tutorials dropdown
