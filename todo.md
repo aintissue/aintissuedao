@@ -4,13 +4,15 @@
 
 #### TODO - v1.1
 
+- [ ] bot - fix all basic flows
+- [ ] bot - limit number of projects
+- [ ] web - pricing - limits
 - [ ] web - update FAQ
 - [ ] bot - link command
 - [ ] bot - deploy
 
 #### TODO - v1.2
 
-- [ ] bot - fix all basic flows
 - [ ] bot - login
 - [ ] bot - customer dashboard
 - [ ] web - finish cofounders
