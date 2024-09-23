@@ -8,7 +8,6 @@
 - [ ] bot - non dev / postgres
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
-- [ ] web - update FAQ
 - [ ] bot - link command
 - [ ] bot - deploy
 
@@ -76,3 +75,4 @@
 - [x] web - tutorials dropdown
 - [x] web - bot father tutorial
 - [x] bot - switching project
+- [x] web - update FAQ
