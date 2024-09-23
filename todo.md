@@ -4,11 +4,11 @@
 
 #### TODO - v1.1
 
+- [ ] bot - deploy
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
 - [ ] bot - link command
-- [ ] bot - deploy
 
 #### TODO - v1.2
 
