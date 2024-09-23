@@ -5,6 +5,7 @@
 #### TODO - v1.1
 
 - [ ] stripe kyc
+- [ ] bot - two menu types
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] bot - link command
