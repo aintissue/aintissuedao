@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] bot - deploy
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
@@ -76,3 +75,4 @@
 - [x] bot - switching project
 - [x] web - update FAQ
 - [x] bot - non dev / postgres
+- [x] bot - deploy
