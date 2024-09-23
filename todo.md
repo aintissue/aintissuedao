@@ -7,7 +7,6 @@
 - [ ] stripe kyc
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
-- [ ] web - pricing - limits
 - [ ] bot - link command
 
 #### TODO - v1.2
@@ -79,3 +78,4 @@
 - [x] bot - deploy
 - [x] web - blog
 - [x] web - blog post
+- [x] web - pricing - limits
