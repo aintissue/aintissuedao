@@ -4,6 +4,7 @@
 
 #### TODO - v1.1
 
+- [ ] stripe kyc
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
