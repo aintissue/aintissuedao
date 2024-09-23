@@ -4,8 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] web - blog
-- [ ] web - blog post
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] web - pricing - limits
@@ -78,3 +76,5 @@
 - [x] web - update FAQ
 - [x] bot - non dev / postgres
 - [x] bot - deploy
+- [x] web - blog
+- [x] web - blog post
