@@ -4,9 +4,9 @@
 
 #### TODO - v1.1
 
+- [ ] bot - link command
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
-- [ ] bot - link command
 
 #### TODO - v1.2
 
