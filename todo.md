@@ -10,8 +10,8 @@
 
 #### TODO - v1.2
 
-- [ ] bot - login
-- [ ] bot - customer dashboard
+- [ ] app - login
+- [ ] app - customer dashboard
 - [ ] web - finish cofounders
 - [ ] web - stats from bot
 - [ ] referral system
