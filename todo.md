@@ -19,6 +19,7 @@
 #### TODO - BACKLOG
 
 - [ ] web - dropdown active
+- [ ] bot - autoreply
 - [ ] bot - FAQ
 - [ ] bot - tickets
 - [ ] web - more tutorials
