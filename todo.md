@@ -4,6 +4,7 @@
 
 #### TODO - v1.1
 
+- [ ] bot - count messages
 - [ ] web / app - live stats
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
