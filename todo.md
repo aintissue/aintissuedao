@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] bot - update namespace
 - [ ] web / app - live stats
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
@@ -85,3 +84,4 @@
 - [x] bot - link command
 - [x] bot - count messages
 - [x] bot - register already used namespace
+- [x] bot - update namespace
