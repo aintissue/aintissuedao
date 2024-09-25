@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] bot - two menu types
 - [ ] bot - fix all basic flows
 - [ ] bot - limit number of projects
 - [ ] bot - link command
@@ -80,3 +79,4 @@
 - [x] web - blog post
 - [x] web - pricing - limits
 - [x] stripe kyc
+- [x] bot - two menu types
