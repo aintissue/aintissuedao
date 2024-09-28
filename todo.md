@@ -11,12 +11,12 @@
 
 - [ ] app - login
 - [ ] app - customer dashboard
-- [ ] web - finish cofounders
 - [ ] web - stats from bot
 - [ ] referral system
 
 #### TODO - BACKLOG
 
+- [ ] web - finish cofounders
 - [ ] web - dropdown active
 - [ ] bot - autoreply
 - [ ] bot - FAQ
