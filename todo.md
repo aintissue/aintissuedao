@@ -4,8 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - deploy
-- [ ] web / app - live stats
 - [ ] bot - limit number of projects
 - [ ] app - login
 - [ ] app - customer dashboard
@@ -87,3 +85,5 @@
 #### DONE - v1.2
 
 - [x] app - start basic
+- [x] app - deploy
+- [x] web / app - live stats
