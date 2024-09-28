@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - deploy
 - [ ] web / app - live stats
 - [ ] bot - limit number of projects
 - [ ] app - login
