@@ -82,3 +82,7 @@
 - [x] bot - register already used namespace
 - [x] bot - update namespace
 - [x] bot - fix all basic flows
+
+#### DONE - v1.2
+
+- [x] app - start basic
