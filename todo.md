@@ -2,13 +2,10 @@
 
 ## Aint Issue
 
-#### TODO - v1.1
+#### TODO - v1.2
 
 - [ ] web / app - live stats
 - [ ] bot - limit number of projects
-
-#### TODO - v1.2
-
 - [ ] app - login
 - [ ] app - customer dashboard
 - [ ] web - stats from bot
