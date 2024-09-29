@@ -90,3 +90,4 @@
 - [x] app - rename api to app
 - [x] app - do login view
 - [x] app - login view
+- [x] app - logout
