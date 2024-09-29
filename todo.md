@@ -8,6 +8,7 @@
 - [ ] bot - limit number of projects
 - [ ] app - login
 - [ ] app - customer dashboard
+- [ ] bot - login
 - [ ] referral system
 
 #### TODO - BACKLOG
