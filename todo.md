@@ -4,11 +4,9 @@
 
 #### TODO - v1.2
 
-- [ ] app - login view
-- [ ] bot - limit number of projects
-- [ ] app - login
-- [ ] app - customer dashboard
 - [ ] bot - login
+- [ ] bot - limit number of projects
+- [ ] app - user dashboard
 - [ ] referral system
 
 #### TODO - BACKLOG
@@ -91,3 +89,4 @@
 - [x] app - template
 - [x] app - rename api to app
 - [x] app - do login view
+- [x] app - login view
