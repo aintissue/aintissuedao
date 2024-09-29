@@ -5,7 +5,8 @@
 #### TODO - v1.2
 
 - [ ] app - rename api to app
-- [ ] app - template
+- [ ] app - login view
+- [ ] app - do login view
 - [ ] bot - limit number of projects
 - [ ] app - login
 - [ ] app - customer dashboard
@@ -88,3 +89,4 @@
 - [x] app - start basic
 - [x] app - deploy
 - [x] web / app - live stats
+- [x] app - template
