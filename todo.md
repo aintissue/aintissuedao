@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - favicon
 - [ ] bot - login
 - [ ] bot - limit number of projects
 - [ ] app - user dashboard
