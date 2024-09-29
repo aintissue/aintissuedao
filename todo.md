@@ -5,7 +5,6 @@
 #### TODO - v1.2
 
 - [ ] app - favicon
-- [ ] bot - login
 - [ ] bot - limit number of projects
 - [ ] app - user dashboard
 - [ ] app - referral system
@@ -92,3 +91,4 @@
 - [x] app - do login view
 - [x] app - login view
 - [x] app - logout
+- [x] bot - login
