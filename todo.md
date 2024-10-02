@@ -12,6 +12,8 @@
 - [ ] app - stripe callback
 - [ ] app - update to premium
 - [ ] app - referral system
+- [ ] app - referral copy
+- [ ] app - referral stats
 
 #### TODO - BACKLOG
 
