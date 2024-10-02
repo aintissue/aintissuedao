@@ -5,6 +5,7 @@
 #### TODO - v1.2
 
 - [ ] app - referral copy
+- [ ] app - referral link
 - [ ] app - show projects
 - [ ] bot - limit number of projects
 - [ ] app - start a bot
