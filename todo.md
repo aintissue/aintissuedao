@@ -6,6 +6,11 @@
 
 - [ ] bot - limit number of projects
 - [ ] app - user dashboard
+- [ ] app - start a bot
+- [ ] app - trial
+- [ ] app - profile / email
+- [ ] app - stripe callback
+- [ ] app - update to premium
 - [ ] app - referral system
 
 #### TODO - BACKLOG
