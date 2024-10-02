@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] bug - counting all replies
 - [ ] app - referral copy
 - [ ] app - referral link
 - [ ] app - show projects
