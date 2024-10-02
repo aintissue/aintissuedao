@@ -4,16 +4,16 @@
 
 #### TODO - v1.2
 
-- [ ] bot - limit number of projects
+- [ ] app - sidebar menu
+- [ ] app - profile / email
+- [ ] app - referral copy
 - [ ] app - show projects
+- [ ] bot - limit number of projects
 - [ ] app - start a bot
 - [ ] app - trial
-- [ ] app - profile / email
-- [ ] app - sidebar menu
 - [ ] app - stripe callback
 - [ ] app - update to premium
 - [ ] app - referral system
-- [ ] app - referral copy
 - [ ] app - referral stats
 
 #### TODO - BACKLOG
