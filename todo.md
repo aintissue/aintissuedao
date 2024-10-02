@@ -5,10 +5,11 @@
 #### TODO - v1.2
 
 - [ ] bot - limit number of projects
-- [ ] app - user dashboard
+- [ ] app - show projects
 - [ ] app - start a bot
 - [ ] app - trial
 - [ ] app - profile / email
+- [ ] app - sidebar menu
 - [ ] app - stripe callback
 - [ ] app - update to premium
 - [ ] app - referral system
