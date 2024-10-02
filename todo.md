@@ -92,3 +92,4 @@
 - [x] app - logout
 - [x] bot - login
 - [x] app - favicon
+- [x] app - UI elements
