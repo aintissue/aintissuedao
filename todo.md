@@ -4,8 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - sidebar menu
-- [ ] app - profile / email
 - [ ] app - referral copy
 - [ ] app - show projects
 - [ ] bot - limit number of projects
@@ -101,3 +99,5 @@
 - [x] bot - login
 - [x] app - favicon
 - [x] app - UI elements
+- [x] app - sidebar menu
+- [x] app - profile / email
