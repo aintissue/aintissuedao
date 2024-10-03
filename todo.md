@@ -4,9 +4,8 @@
 
 #### TODO - v1.2
 
-- [ ] bug - counting all replies
-- [ ] app - referral copy
 - [ ] app - referral link
+- [ ] app - referral copy
 - [ ] app - show projects
 - [ ] bot - limit number of projects
 - [ ] app - start a bot
@@ -103,3 +102,4 @@
 - [x] app - UI elements
 - [x] app - sidebar menu
 - [x] app - profile / email
+- [x] bug - counting all replies
