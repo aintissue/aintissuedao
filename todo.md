@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - referral link
 - [ ] app - referral copy
 - [ ] app - show projects
 - [ ] bot - limit number of projects
@@ -103,3 +102,4 @@
 - [x] app - sidebar menu
 - [x] app - profile / email
 - [x] bug - counting all replies
+- [x] app - referral link
