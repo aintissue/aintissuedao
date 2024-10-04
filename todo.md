@@ -24,7 +24,7 @@
 - [ ] register facebook
 - [ ] more languages
 
-#### DONE
+#### DONE - v1.0 MPV
 
 - [x] find template
 - [x] website - setup github
