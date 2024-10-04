@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] web - app links
 - [ ] app - start a bot
 - [ ] app - trial
 - [ ] app - stripe callback
