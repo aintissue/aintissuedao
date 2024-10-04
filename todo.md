@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] bot - limit number of projects
 - [ ] app - start a bot
 - [ ] app - trial
 - [ ] app - stripe callback
@@ -103,3 +102,4 @@
 - [x] app - referral link
 - [x] app - referral copy
 - [x] app - show projects
+- [x] bot - limit number of projects
