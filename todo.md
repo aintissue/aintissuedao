@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - referral system
 - [ ] app - referral stats
 - [ ] app - trial
 - [ ] app - stripe callback
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] app - ref stats - montly or annually
 - [ ] app - bot delete confirm
 - [ ] app - better bot list
 - [ ] web - finish cofounders
@@ -116,3 +116,4 @@
 - [x] app - bot form errors
 - [x] app - don't allow more than 1 bot in trial
 - [x] app - counter
+- [x] app - referral system
