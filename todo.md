@@ -5,7 +5,7 @@
 #### TODO - v1.2
 
 - [ ] app - prepare bot to create
-- [ ] app - bot keyvalue
+- [ ] bot - keyvalue
 - [ ] app - create bot
 - [ ] app - stop and remove bot
 - [ ] app - trial
@@ -109,3 +109,4 @@
 - [x] web - app links
 - [x] app - create bot form
 - [x] app - bot model
+- [x] app - bot keyvalue
