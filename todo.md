@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - list bots
 - [ ] app - stop and remove bot
 - [ ] app - trial
 - [ ] app - stripe callback
@@ -110,3 +109,4 @@
 - [x] app - bot keyvalue
 - [x] app - prepare bot to create
 - [x] app - create bot
+- [x] app - list bots
