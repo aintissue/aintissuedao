@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - counter
 - [ ] app - referral system
 - [ ] app - referral stats
 - [ ] app - trial
@@ -116,3 +115,4 @@
 - [x] app - bot name
 - [x] app - bot form errors
 - [x] app - don't allow more than 1 bot in trial
+- [x] app - counter
