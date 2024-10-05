@@ -4,8 +4,8 @@
 
 #### TODO - v1.2
 
-- [ ] app - bot delete confirm
 - [ ] app - bot name
+- [ ] app - bot delete confirm
 - [ ] app - better bot list
 - [ ] app - trial
 - [ ] app - stripe callback
