@@ -4,7 +4,7 @@
 
 #### TODO - v1.2
 
-- [ ] app - trial
+- [ ] app - trial check
 - [ ] app - stripe callback
 - [ ] app - update to premium
 
