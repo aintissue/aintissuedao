@@ -4,12 +4,14 @@
 
 #### TODO - v1.2
 
+- [ ] app - no referral bug
 - [ ] app - trial check
-- [ ] app - stripe callback
+- [ ] app - subscription check
 - [ ] app - update to premium
 
 #### TODO - BACKLOG
 
+- [ ] app - stripe callback
 - [ ] app - ref stats - montly or annually
 - [ ] app - bot delete confirm
 - [ ] app - better bot list
