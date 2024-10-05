@@ -5,7 +5,6 @@
 #### TODO - v1.2
 
 - [ ] app - create bot loading gif
-- [ ] app - self referral bug
 - [ ] app - trial check
 - [ ] app - subscription check
 - [ ] app - update to premium
@@ -121,3 +120,4 @@
 - [x] app - referral system
 - [x] app - referral stats
 - [x] app - no referral bug
+- [x] app - self referral bug
