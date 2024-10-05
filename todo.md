@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - counter
 - [ ] app - referral system
 - [ ] app - referral stats
 - [ ] app - trial
