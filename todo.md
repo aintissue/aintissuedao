@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - create bot loading gif
 - [ ] app - no referral bug
 - [ ] app - self referral bug
 - [ ] app - trial check
