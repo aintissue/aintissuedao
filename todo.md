@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - don't allow more than 1 bot in trial
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
