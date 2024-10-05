@@ -4,7 +4,7 @@
 
 #### TODO - v1.2
 
-- [ ] app - stop and remove bot
+- [ ] app - bot delete confirm
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
@@ -110,3 +110,4 @@
 - [x] app - prepare bot to create
 - [x] app - create bot
 - [x] app - list bots
+- [x] app - stop and remove bot
