@@ -4,11 +4,11 @@
 
 #### TODO - v1.2
 
+- [ ] app - referral system
+- [ ] app - referral stats
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
-- [ ] app - referral system
-- [ ] app - referral stats
 
 #### TODO - BACKLOG
 
