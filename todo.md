@@ -5,6 +5,7 @@
 #### TODO - v1.2
 
 - [ ] app - no referral bug
+- [ ] app - self referral bug
 - [ ] app - trial check
 - [ ] app - subscription check
 - [ ] app - update to premium
