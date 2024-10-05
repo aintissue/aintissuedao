@@ -5,6 +5,7 @@
 #### TODO - v1.2
 
 - [ ] app - bot name
+- [ ] app - bot form errors
 - [ ] app - bot delete confirm
 - [ ] app - better bot list
 - [ ] app - trial
