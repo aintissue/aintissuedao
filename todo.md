@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - create bot form
 - [ ] app - create bot
 - [ ] app - prepare bot to create
 - [ ] app - trial
@@ -106,3 +105,4 @@
 - [x] app - show projects
 - [x] bot - limit number of projects
 - [x] web - app links
+- [x] app - create bot form
