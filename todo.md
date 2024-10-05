@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - bot keyvalue
 - [ ] app - create bot
 - [ ] app - prepare bot to create
 - [ ] app - trial
