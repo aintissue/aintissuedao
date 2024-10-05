@@ -4,9 +4,9 @@
 
 #### TODO - v1.2
 
+- [ ] app - prepare bot to create
 - [ ] app - bot keyvalue
 - [ ] app - create bot
-- [ ] app - prepare bot to create
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
