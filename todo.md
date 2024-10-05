@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - referral stats
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
@@ -117,3 +116,4 @@
 - [x] app - don't allow more than 1 bot in trial
 - [x] app - counter
 - [x] app - referral system
+- [x] app - referral stats
