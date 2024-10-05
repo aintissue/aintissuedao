@@ -4,8 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - bot name
-- [ ] app - bot form errors
 - [ ] app - bot delete confirm
 - [ ] app - better bot list
 - [ ] app - trial
@@ -114,3 +112,5 @@
 - [x] app - create bot
 - [x] app - list bots
 - [x] app - stop and remove bot
+- [x] app - bot name
+- [x] app - bot form errors
