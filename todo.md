@@ -106,3 +106,4 @@
 - [x] bot - limit number of projects
 - [x] web - app links
 - [x] app - create bot form
+- [x] app - bot model
