@@ -4,8 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - bot delete confirm
-- [ ] app - better bot list
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
@@ -14,6 +12,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] app - bot delete confirm
+- [ ] app - better bot list
 - [ ] web - finish cofounders
 - [ ] web - dropdown active
 - [ ] bot - autoreply
