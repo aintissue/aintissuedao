@@ -7,6 +7,7 @@
 - [ ] app - prepare bot to create
 - [ ] app - bot keyvalue
 - [ ] app - create bot
+- [ ] app - stop and remove bot
 - [ ] app - trial
 - [ ] app - stripe callback
 - [ ] app - update to premium
