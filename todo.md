@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] app - delete bot folder bug
 - [ ] app - create bot loading gif
 - [ ] app - trial check
 - [ ] app - subscription check
