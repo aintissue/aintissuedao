@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] app - delete bot folder bug
 - [ ] app - create bot loading gif
 - [ ] app - trial check
 - [ ] app - subscription check
@@ -122,3 +121,4 @@
 - [x] app - referral stats
 - [x] app - no referral bug
 - [x] app - self referral bug
+- [x] app - delete bot folder bug
