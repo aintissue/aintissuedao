@@ -5,6 +5,7 @@
 #### TODO - v1.2
 
 - [ ] cms - create repo
+- [ ] cms - move existing
 - [ ] app - create bot loading gif
 - [ ] app - trial check
 - [ ] app - subscription check
