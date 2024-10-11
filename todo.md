@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] web - put on anon cms
 - [ ] app - create bot loading gif
 - [ ] app - trial check
 - [ ] app - subscription check
